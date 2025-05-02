@@ -1,0 +1,1 @@
+# InputDialogs GameMaker Extension
